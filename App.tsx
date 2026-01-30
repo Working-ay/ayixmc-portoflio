@@ -19,7 +19,7 @@ const App: React.FC = () => {
 
         <div className="max-w-4xl w-full text-center relative z-10">
           <p className="font-mono text-xs text-gray-600 mb-8 tracking-[0.3em] uppercase">
-            
+            kf
           </p>
           
           <h1 className="text-6xl md:text-9xl font-bold tracking-tighter mb-10 text-white">
